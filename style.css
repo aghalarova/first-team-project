@@ -27,16 +27,17 @@ section{
 }
 .email{
     position: relative;
+    width: 445px;
 }
 button {
     position: absolute;
-    left: 150px;
+    right: 0;
 
 }
 .start {
     display: flex;
     justify-content: space-between;
-    padding: 100px;
+   margin: 40px 0;
 }
 .email input {
     border: 0;
@@ -115,7 +116,7 @@ footer {
         
       
     }
-    button{
+     button{
         position: static;
     }
    
